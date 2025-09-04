@@ -26,9 +26,12 @@ Soy estudiante de la tecnicatura unversitaria en programacion en UTN.
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+<h4> IDEs </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeans-0096D6?style=for-the-badge&logo=apache-netbeans&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</span>
 
 
 <h4> Other Tools and Technologies </h4>
