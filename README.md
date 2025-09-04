@@ -6,10 +6,10 @@ Soy estudiante de la tecnicatura unversitaria en programacion en UTN.
 
 
 
-- :seedling:  Me desarrollo principalmente en Java.
-- :computer: Soy estudiante de la UTN
-- 🤔 Estoy buscando una pasantía.
-- :speech_balloon: Podés preguntarme sobre cualquier cosa.
+- :seedling:  Me gusta programar en Java y Spring Boot.
+- :computer: Me interesa desarrollar aplicaciones web y móviles.
+- 🤔 Busco una pasantía o proyecto desafiante.
+- :speech_balloon: Disfruto resolver retos de programación y algoritmos.
 
 <h4> Languages </h4>
 <span> 
