@@ -6,8 +6,8 @@ Soy estudiante de la tecnicatura unversitaria en programacion en UTN.
 
 
 
-- :seedling:  Actualmente estoy aprendiendo sobre Java.
-- :computer:  La línea de código que más uso es: git commit -m "Initial Commit"
+- :seedling:  Me desarrollo principalmente en Java.
+- :computer: Soy estudiante de la UTN
 - 🤔 Estoy buscando una pasantía.
 - :speech_balloon: Podés preguntarme sobre cualquier cosa.
 
